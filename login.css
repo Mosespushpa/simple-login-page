@@ -1,0 +1,30 @@
+
+.container1{
+    width: 350px;
+    height: 750px;
+    background: linear-gradient(55deg,hotpink,cyan);
+    margin: auto ;
+}
+
+label{
+    padding-top: 25px;
+}
+#h4{
+    padding-left: 7px;
+    color: rgb(3, 49, 49);
+}
+#uname{
+    padding-left: 10px;
+}
+#password{
+    padding-left: 10px;
+}
+#l1{
+    padding-left: 20px;
+}
+.btn1{
+    color: black;
+    border: 10px;
+    background-color: blueviolet;
+    
+}
